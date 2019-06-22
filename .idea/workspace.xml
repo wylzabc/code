@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e6f8a62-c9de-40dd-89b0-34b436688e67" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter01/concurrency/concurrency.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter01/helloworld/helloworld.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter01/httpserver/httpserver.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter02/base64codec/base64codec.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter02/const2str/const2str.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter02/flagparse/flagparse.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter02/inireader/example.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter02/inireader/inireader.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter02/ptrtakevalue/ptrtakevalue.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter02/sinimage/sinimage.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter02/typealias/typealias.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter03/copyslice/copyslice.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter03/listshow/listshow.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter03/syncmap/syncmap.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter04/breakloop/breakloop.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter04/gotoexitloop/gotoexitloop.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter04/multable/multable.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter05/accumulator/accumulator.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter05/diverr/diverr.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter05/funcimplinterface/funcimplinterface.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter05/parseerr/parseerr.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter05/passbyvalue/passbyvalue.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter05/playergen/playergen.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter05/printtypevalue/printtypevalue.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter05/protectrun/protectrun.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter05/resolvetime/resolvetime.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter05/strproc/strproc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter05/variadictransfer/variadictransfer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter06/carinit/carinit.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter06/delegate/delegate.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter06/embedstruct/embedstruct.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter06/eventsys/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter06/eventsys/reg.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter06/httpreq/httpreq.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter06/humanbird/humanbird.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter06/playermove/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter06/playermove/player.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter06/playermove/vec.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter06/splitejson/splitejson.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter06/typemethod/typemethod.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/birdpig/birdpig.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/cashpay/cashandalipay.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/datawriter/datawriter.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/dict/dict.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/fsm/info.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/fsm/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/fsm/state.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/fsm/statemgr.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/logger/console.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/logger/file.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/logger/logger.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/logger/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/sortstring/sortstring.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter07/sortstruct/sortstruct.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter08/clsfactory/base/factory.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter08/clsfactory/cls1/reg.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter08/clsfactory/cls2/reg.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter08/clsfactory/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter08/importadd/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter08/importadd/mylib/add.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter08/pkginit/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter08/pkginit/pkg1/pkg1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter08/pkginit/pkg2/pkg2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter09/closedchannel/closedchannel.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter09/conprint/conprint.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter09/delaycall/delaycall.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter09/forchan/forchan.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter09/racedetect/racedetect.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter09/rpc/rpc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter09/telnetecho/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter09/telnetecho/server.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter09/telnetecho/session.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter09/telnetecho/telnet.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter09/timer/timer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter09/waitgroup/waitgroup.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10/marshaljson/any.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10/marshaljson/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10/marshaljson/marshal.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10/marshaljson/slice.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10/marshaljson/struct.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10/reflectcall/reflectcall.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10/typemember/typemember.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10/validnisnil/validnisnil.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10/valuemember/valuemember.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/gobuild/lib.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/gobuild/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/goinstall/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/goinstall/mypkg/mypkg.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/gotest/benchmark_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/gotest/fail_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/gotest/helloworld_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/gotest/select_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/profile/cpu.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter12/classic/classic.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter12/exitnotify/exitnotify.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter12/multikey/multikey.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter12/overcreatechan/overcreatechan.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter12/reflecttest/reflect_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter12/tcppkt/acceptor.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter12/tcppkt/connector.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter12/tcppkt/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter12/tcppkt/packet.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter12/tcppkt/session.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter13/chatbycellnet/cellnet/codec.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter13/chatbycellnet/cellnet/codec/json/json.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter13/chatbycellnet/cellnet/internal/log.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter13/chatbycellnet/cellnet/internal/sesmgr.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter13/chatbycellnet/cellnet/log.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter13/chatbycellnet/cellnet/meta.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter13/chatbycellnet/cellnet/packet/log.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter13/chatbycellnet/cellnet/packet/packet.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter13/chatbycellnet/cellnet/packet/pktreader.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter13/chatbycellnet/cellnet/packet/pktwriter.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter13/chatbycellnet/cellnet/packet/recv.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter13/chatbycellnet/cellnet/packet/send.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter13/chatbycellnet/cellnet/packet/setup.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter13/chatbycellnet/cellnet/peer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter13/chatbycellnet/cellnet/queue.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter13/chatbycellnet/cellnet/socket/acceptor.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter13/chatbycellnet/cellnet/socket/connector.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter13/chatbycellnet/cellnet/socket/event.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter13/chatbycellnet/cellnet/socket/log.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter13/chatbycellnet/cellnet/socket/peer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter13/chatbycellnet/cellnet/socket/session.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter13/chatbycellnet/cellnet/test/test_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter13/chatbycellnet/chat/client/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter13/chatbycellnet/chat/proto/chat.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter13/chatbycellnet/chat/server/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/davyxu/golog/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/davyxu/golog/color.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/davyxu/golog/color_sample.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/davyxu/golog/level.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/davyxu/golog/log.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/davyxu/golog/log_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/davyxu/golog/log_windows.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/davyxu/golog/manager.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/pkg/profile/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/pkg/profile/AUTHORS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/pkg/profile/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/pkg/profile/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/pkg/profile/example_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/pkg/profile/mutex.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/pkg/profile/mutex17.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/pkg/profile/profile.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/pkg/profile/profile_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/pkg/profile/trace.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/pkg/profile/trace16.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/pkg/profile/trace_test.go" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chapter03/copyslice/copyslice.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="29" column="27" lean-forward="true" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="GOROOT" path="D:\Program Files (x86)\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/chapter03/copyslice/copyslice.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter02" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="GO_FMT" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build copyslice.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/chapter03/copyslice/copyslice.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build copyslice.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33002833" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sss" />
+    <option name="LAST_COMMIT_MESSAGE" value="sss" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/chapter03/copyslice/copyslice.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="29" column="27" lean-forward="true" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
